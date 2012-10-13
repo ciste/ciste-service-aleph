@@ -5,4 +5,5 @@
   :min-lein-version "2.0.0"
   :dependencies [[aleph "0.3.0-alpha2"]
                  [ciste/ciste-core "0.4.0-SNAPSHOT"]]
-  :plugins [[lein-midje "2.0.0-SNAPSHOT"]])
+  :plugins [[codox "0.6.1"]
+            [lein-midje "2.0.0-SNAPSHOT"]])
